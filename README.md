@@ -180,8 +180,3 @@ This project demonstrates how cloud-based analytics can:
 ---
 
 Dataset used for educational and analytical purposes.
-
-
----
-
-If you want next, I can upgrade this further into a **“case study style README”** (the kind that impresses hiring managers in interviews).
